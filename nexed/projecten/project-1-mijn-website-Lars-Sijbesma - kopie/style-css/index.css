@@ -1,0 +1,102 @@
+﻿body {
+    background-color: paleturquoise;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightgreen;
+}
+
+nav {
+    display:flex;
+    background-color: orchid;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 23px;
+}
+
+main {
+    display: flex;
+}
+
+#Familie {
+    display: flex;
+    /*height: 400px;*/
+}
+
+.F-1 {
+    display: flex;
+    flex-direction: column;
+
+}
+#Familie-2 {
+    display: flex;
+    font-size: 25px;
+}
+
+
+#Huisdieren {
+    display: flex;
+    /*width: 360px;*/
+    /*height: 400px;*/
+}
+.H-D {
+    display: flex;
+    flex-direction: row;
+}
+
+#H-D-2 {
+    display: flex;
+    font-size: 25px;
+}
+
+#Memes {
+    display: flex;
+    /*width: 500px;*/
+    /*height: 500px;*/
+}
+
+#M-1 {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+}
+
+.M-2 {
+    display: flex;
+    /*flex-direction: column;*/
+}
+
+.Rechts {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    /*float: right;*/
+    gap: 200px;
+    margin-top: 100px;
+}
+
+#moeder {
+    display: flex;
+    height: 500px;
+    object-fit: cover;
+}
+
+#mochi {
+    display: flex;
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
+
+#memes-1 {
+    display: flex;
+    height: 500px;
+    width: auto;
+}
+
+footer {
+    text-align: center;
+    background-color:cornsilk;
+    margin-top: 20px;
+}

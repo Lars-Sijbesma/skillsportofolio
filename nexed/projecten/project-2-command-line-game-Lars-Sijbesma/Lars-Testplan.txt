@@ -1,0 +1,9 @@
+Testplan:
+1. Introductie
+2. Als je niet getransformeert bent kies je een van de ontrengdelde aliens (70% kans op een verkeerde transformatie bijvorbeeld je kiest 1 en je krijgt in plaats daarvan 8)
+3. Start het gevecht (alle vijanden zijn willekeurig)
+3.1 Als je getransformeerd ben ga verder met vechten
+4. Aanval 3 doet de meeste schade en sommige moves genezen in plaats van dat ze damage doen en aanval 1 doet altijd het minste schade
+5. Als het beurt 5 is en je bent niet verslagen binnen die 5 beurt dan verander je terug naar menselijke vormen kan je een nieuwe alien kiezen om in te transformeren
+6. Als je voor de 5 beurten bent verslagen dan verander je terug naar mens en heb je een kans op 4 dingen. De failsafe die automatisch je in een willekeurige alien transformeert in je ontgrendelde lijst. Meester controle die alle aliens ontgrendelt en je permanent in een gekozen alien verandert. De zelf vernieteging die de speler vermoord en de game sluit. Of je ontgrendeld  een willekeurige alien waarin je ontmiddelijk in transformeert
+7. Als je sterft begin je weer bij het eerste gevecht en als je de vijand verslaat ga je naar de volgende totdat je alle 15 vijanden hebt verslagen

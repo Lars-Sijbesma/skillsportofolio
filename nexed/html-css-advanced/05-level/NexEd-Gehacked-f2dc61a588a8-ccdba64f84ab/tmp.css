@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+      background-color: darkblue;
+        display: flex;
+      justify-content: space-between;
+      width: auto;
+      height: 70px;
+      align-items: center;
+      max-width: 19500px;
+      
+  }
+
+  .links{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+  }
+  .links img {
+    width: 50%;
+    height: auto;
+  }
+  .midden {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    width: 55%;
+    object-fit: cover;
+    font-size: small;
+    text-align: center;
+  }
+  .midden div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 3px;
+    color: white;
+    
+  }
+  .midden img {
+    width: 30%;
+    height: auto;
+  }
+  .rechts {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin: 15px;
+  
+  }
+  
+  .rechts img {
+    height: 30px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+  
+    
+  }
+  h1 {
+    text-align:left;
+    padding: 5px;
+  }
+  
+  .Plant > h2 {
+    padding-left: 25px;
+  }
+  
+  .Plant > p {
+    padding-left: 10px;
+  }
+  
+  button {
+    color: white;
+    background-color: #56bd8d;
+    border: none;
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  tr, table, th, tbody {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding-top: 5px; 
+  }
+
+  .level {
+    background-color: aqua;
+    width: 150px;
+    height: 10px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+  
+  }
+  .fill {
+     z-index: 5;
+    width: 20px;
+    height: 20px;
+    background-color: #2396a4;
+    border-radius: inherit;
+    position: relative;
+    
+  }
+  
+  .level h3 {
+    align-self: center;
+    padding-left: 20px;
+    position: fixed;
+    top: 24px;
+  }

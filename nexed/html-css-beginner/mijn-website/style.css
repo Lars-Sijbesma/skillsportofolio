@@ -1,0 +1,28 @@
+body {
+    background-color: seashell;
+}
+
+h1 {
+    color: red;
+}
+
+ol, ul { 
+    color: steelblue;
+    font-size: xx-large;
+}
+
+img {
+    width: 30%; height: auto;
+}
+
+.aboutme {
+    background-color: cornflowerblue;
+    
+}
+.Games {
+    font-style: unset;
+}
+
+span {
+    color: green;
+}

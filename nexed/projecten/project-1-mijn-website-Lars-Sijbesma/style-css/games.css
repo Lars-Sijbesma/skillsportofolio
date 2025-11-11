@@ -1,0 +1,87 @@
+body {
+    background-color: crimson;
+}
+
+h1 {
+    text-align: center;
+    background-color: seagreen;
+}
+
+nav {
+    display:flex;
+    background-color: orchid;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 23px;
+}
+
+main {
+    display: flex;
+}
+
+#DB {
+    display: flex;
+    height: 400px;
+}
+
+.d-b {
+    display: flex;
+    flex-direction: column;
+
+}
+#d-b-2 {
+    display: flex;
+    font-size: 25px;
+}
+
+
+#P5 {
+    display: flex;
+    width: 760px;
+    height: auto;
+}
+.P-5 {
+    display: flex;
+    flex-direction: column;
+}
+
+#P-5-2 {
+    display: flex;
+    font-size: 25px;
+}
+
+#minecraft {
+    display: flex;
+    width: 800px;
+    height: auto;
+}
+
+#m-c {
+    display: flex;
+    font-size: 25px;
+}
+
+.m-c-2 {
+    display: flex;
+    /*flex-direction: column;*/
+}
+
+#m-c-3 {
+    display: flex;
+    float: left;
+}
+
+.Rechts {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    /*float: right;*/
+    gap: 200px;
+    margin-top: 100px;
+}
+
+footer {
+    text-align: center;
+    background-color:cornsilk;
+    margin-top: 20px;
+}

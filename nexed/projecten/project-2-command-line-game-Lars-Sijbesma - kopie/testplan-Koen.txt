@@ -1,0 +1,100 @@
+Als je het spel start is het Welkom scherm er + kamer 1
+
+elke keer dat je in een kamer komt laat hij de kamer zien + de naam van de kamer, of er een vijand is en hoeveel HP je hebt
+
+als je de verkeerde kant opgaat bij de kamer dan ga je dood
+
+als je een vijand verslagen hebt en je terug gaat naar die kamer is de vijand nogsteeds dood
+
+elke keer dat je een enemy tegenkomt kan je kiezen tussen schade en genezen 
+en als je schade kiest zie je de damage die je doet + hoeveel HP de vijand heeft
+als je genezen kiest zie je hoeveel HP je terug krijgt en hoeveel hp je nog hebt
+
+elke keer dat de enemy aanvalt zie je de schade die hij doet + jou HP
++ enemy mag altijd beginnen
+
+de beurten bij de eindbaas zijn compleet random en je kan dus meerdere keer achter elkaar aan anvallen 
+of de eindbaas is meerdere keren achter elkaar
+
+
+kamer 1 veilig :
+als je naar beneden gaat kom je in kamer 5 en moet je vechten
+als je naar rechts gaat kom je in kamer 2 en moet je ook vechten
+
+kamer 2 je moet vechten en als de vijand verslagen is mag je door:
+je kan terug naar kamer 1 door links te gaan en bent veilig
+je kan naar kamer 3 door rechts te gaan en moet daar vechten
+je kan naar kamer 6 door naar beneden te gaan en bent daar veilig en gebeurt niks 
+
+kamer 3 vechten :
+je kan terug naar kamer 2 door links te gaan
+je kan naar kamer vier door rechts te gaan en moet vechten
+
+kamer 4 vechten :
+je kan naar links om terug te gaan naar kamer 3 en bent dan veilig
+
+kamer 5 vechten :
+je kan alleen omhoog terug naar kamer 1 en bent dan veilig
+
+kamer 6 veilig :
+je kan omhoog terug naar kamer 2 en bent dan veilig
+je kan omlaag naar kamer 10 waar je moet vecthen 
+
+kamer 7 vechten :
+je kan naar rechts naar kamer 8 en bent veilig 
+je kan naar beneden terug naar 11 en betn veilig
+
+kamer 8 veilig :
+je kan naar links terug naar kamer 7 en bent veilig 
+je kan naar beneden naar kamer 12 en moet vechten
+
+kamer 9 BOSS :
+je vecht de baas als deze dood is win je en is het gewonnen scherm er en eindigt het spel
+als je geraakt wordt door de boss ga je dood.
+
+kamer 10 vechten :
+je kan omhoog terug naar kamer 6 en bent veilig 
+je kan naar rechts door naar kamer 11 en moet vechten
+
+kamer 11 vechten :
+je kan naar links terug naar kamer 10 en bent dan veilig
+je kan omhoof naar kamer 7 en moet vechten
+
+kamer 12 vechten :
+je kan omhoog terug naar kamer 8 en bent veilig
+je kan naar beneden naar kamer 16 en moet vechten
+
+kamer 13 vechten:
+je kan omhoog naar kamer 9 en moet de boss vechten
+je kan terug naar rechts naar kamer 14 en bent veilig
+
+kamer 14 veilig:
+je kan rechts naar kamer 15 en moet vechten
+je kan links naar kamer 13 en mote vechten 
+je kan terug omlaag naar kamer 18 en bent veilig
+
+kamer 15 vechten :
+je kan links terug naar kamer 14 en bent veilig
+
+kamer 16 vechten:
+je kan terug omhoog terug naar kamer 12 veilig
+je kan omlaag naar kamer 20 en bent veilig
+
+kamer 17 vechten :
+je kan terug naar recht naar kamer 18 en bent veilig
+
+kamer 18 vechten :
+je kan links naar kamer 17 en moet vechten
+je kan boven naar kamer 14 en bent veilig 
+je kan rechts terug naar kamer 19 en bent veilig 
+
+kamer 19 vechten :
+je kan links naar kamer 18 en moet vechten 
+je kan rechts terug naar kamer 20 en bent veilig
+
+kamer 20 veilig :
+je kan omhoog terug naar kamer 16 en bent veilig 
+je kan links naar kamer 19 en moet vechten.
+
+
+als je de test code gebruikt gaat de enemy in 1 keer dood en kan je door zonder probleem en bij de einbaas krijg je het gewonnen scherm

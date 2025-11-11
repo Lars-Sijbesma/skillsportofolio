@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+    display: flex;
+}
+
+div {
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.links {
+    background-color:blue;
+    color: aliceblue;
+    display: flex;
+    
+}
+
+.rechts {
+    background-color: blue;
+    color:aliceblue;
+    display: flex;
+}

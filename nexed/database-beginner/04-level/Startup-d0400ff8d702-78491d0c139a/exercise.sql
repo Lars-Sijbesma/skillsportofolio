@@ -1,0 +1,1 @@
+SELECT * FROM series WHERE 1;

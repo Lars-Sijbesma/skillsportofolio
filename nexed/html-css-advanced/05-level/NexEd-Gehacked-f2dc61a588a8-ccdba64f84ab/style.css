@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+    background-color: darkblue;
+      display: flex;
+    justify-content: space-between;
+    width: auto;
+    height: 70px;
+    align-items: center;
+    /* max-width: 19500px; */
+    
+}
+
+.links{
+  /* display: flex; */
+  /* flex-direction: row; */
+  margin: 20px;
+}
+
+.links img {
+  width: 60%;
+  height: auto;
+  min-width: 30px;
+}
+
+.midden {
+  display: flex;
+  /* flex-direction: row;
+  justify-content: center; */
+  align-items: center;
+  /* justify-content: space-around; */
+  /* width: 55%;
+  object-fit: cover;
+  font-size: small; */
+  text-align: center;
+}
+
+.midden div {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+  color: white;
+}
+.midden img {
+  width: 30%;
+  height: auto;
+  min-width: 30px;
+}
+
+#feedback {
+  background-color: white;
+  height: auto;
+  border: 1px;
+  border-radius: 5px;
+  color: springgreen;
+  margin: 15px;
+  padding: 5px 20px 5px 20px;
+}
+
+#feedback img {
+  height: auto;
+  width: 40%;
+  
+}
+.rechts {
+  display: flex;
+  /* flex-direction: row; */
+  color: white;
+  margin: 15px;
+}
+
+.rechts img {
+  height: 35px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 100px;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.level {
+  background-color: aqua;
+  width: 140px;
+  height: 35px;
+  z-index: 10;
+  margin-top: 8px;
+  /* padding-top: 20px;
+  padding-bottom: 10px; */
+  border-radius: 3px;
+
+}
+.fill {
+   /* z-index: 5; */
+  width: 40px;
+  height: 100%;
+  background-color: #2396a4;
+  /* border-radius: inherit;
+  position: relative; */
+  
+}
+
+.level h3 {
+  align-self: center;
+  padding-left: 20px;
+  position: fixed;
+  top: 24px;
+}
+
+#credits > h2 {
+  display: flex;
+ text-align:center;
+ align-items: center;
+ justify-content: center;
+}
+
+.creditsHolder {
+  display: flex;
+  flex-direction: row;
+}
+
+
+h1 {
+  text-align:left;
+  padding: 5px;
+}
+
+.Plant > h2 {
+  padding-left: 25px;
+}
+
+.Plant > p {
+  padding-left: 10px;
+}
+
+button {
+  color: white;
+  background-color: #56bd8d;
+  border: none;
+  outline: none;
+  padding: 5px;
+  border-radius: 5px;
+}
+tr, table, th, tbody {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  padding-top: 5px;
+}
+
+#content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+#thead:first-child {
+  margin: 50px;
+}
+td {
+  border-top: none;
+  border-bottom: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding: 10px;
+}
+.Plant {
+  display: flex;
+  flex-direction: column;
+  border-style: outset;
+  height: auto;
+  margin: 50px;
+  max-width: 200px;
+}
+
+.contentMidden{
+
+  background-color: #f9f9f9;
+  padding-top: 3%; 
+}
+
+#content {
+  background-color: #f9f9f9;
+}
+
+

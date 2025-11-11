@@ -1,0 +1,19 @@
+.icon {
+    float: right;
+}
+
+.tooltip {
+    position: sticky;
+    top: 0;
+    bottom: auto;
+}
+
+.tooltip-content {
+    display: none;
+    padding: 1REM;
+    color: white;
+    background-color: black;
+}
+.icon:hover + .tooltip-content {
+    display: block;
+}

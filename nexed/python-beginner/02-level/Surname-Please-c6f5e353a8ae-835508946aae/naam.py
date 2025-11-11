@@ -1,0 +1,5 @@
+﻿print("Wat is je voornaam?")
+vnaam = input()
+print("Wat is je achternaam?")
+anaam = input()
+lnaam = print("Jouw naam is: " + vnaam + " " + anaam)

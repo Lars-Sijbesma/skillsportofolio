@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "tsc && npm run copy-assets",
+    "dev": "tsc --watch",
+    "copy-assets": "mkdir -p dist && cp -R public/* dist/",
+    "serve": "python -m http.server 8080 --directory dist",
+    "start": "npm run build && npm run serve"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}

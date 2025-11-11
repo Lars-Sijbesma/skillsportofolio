@@ -1,0 +1,98 @@
+td, tr, th {
+    border: 3px solid;
+padding-left: 3px;
+padding-top: 3px;
+padding-bottom: 3px;
+padding-right: 3px;
+cursor: pointer;
+}
+.water {
+    background-color: tomato;
+}
+.water:hover {
+    background-color: lime;
+}
+.lithium {
+    background-color: violet;
+}
+.lithium:hover {
+    background-color: lime;
+}
+.ber {
+    background-color:turquoise;
+}
+.ber:hover {
+    background-color: lime;
+}
+.sod {
+    background-color: violet;
+}
+.sod:hover {
+    background-color: lime;
+}
+.mag {
+    background-color: turquoise;
+}
+.mag:hover {
+    background-color: lime;
+}
+.pot {
+    background-color: violet;
+}
+.pot:hover {
+    background-color: lime;
+}
+.cal {
+    background-color: turquoise;
+}
+.cal:hover {
+    background-color: lime;
+}
+.scan {
+    background-color:palegoldenrod;
+}
+.scan:hover {
+    background-color: lime;
+}
+.titan {
+    background-color: palegoldenrod;
+}
+.titan:hover {
+    background-color: lime;
+}
+.van {
+    background-color: palegoldenrod;
+}
+.van:hover {
+    background-color: lime;
+}
+.rub {
+    background-color: violet;
+}
+.rub:hover {
+    background-color: lime;
+}
+.stron {
+    background-color: turquoise;
+}
+.stron:hover {
+    background-color: lime;
+}
+.yt {
+    background-color: palegoldenrod;
+}
+.yt:hover {
+    background-color: lime;
+}
+.zir {
+    background-color: palegoldenrod;
+}
+.zir:hover {
+    background-color: lime;
+}
+.nio {
+    background-color: palegoldenrod;
+}
+.nio:hover {
+    background-color: lime;
+}

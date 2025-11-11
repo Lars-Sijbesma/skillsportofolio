@@ -1,0 +1,10 @@
+body {
+    width: 100%;
+    display: flex;
+}
+
+div {
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+}

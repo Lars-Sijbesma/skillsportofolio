@@ -1,0 +1,5 @@
+﻿jupyter==1.1.1
+pip==24.2
+attrs==25.3.0
+pillow==11.2.1
+notebook==1.1.1

@@ -1,0 +1,45 @@
+.collegas {
+display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 80px;
+}
+.collega {
+    background-color:beige;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+}
+.collega>img {
+    aspect-ratio: 1/1;
+    margin: 20px;
+    width: 10%;
+    object-fit: cover;
+}
+.collega:nth-child(1) > img {
+    object-position: 0%;
+
+}
+.collega:nth-child(2) > img {
+    object-position: 50%;
+}
+.collega:nth-child(3) > img {
+    object-position: 100%;
+}
+.avatar > img {
+    border-radius: 15px;
+    aspect-ratio: 1/1;
+    width: 100%;
+    object-fit:cover;
+
+
+}
+.avatar {
+    width: 90%;
+}
+h1 {
+    text-align: center;
+}

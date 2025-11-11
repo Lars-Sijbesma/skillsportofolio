@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    background-color: darkorange;
+    justify-content: space-around;
+}
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: yellowgreen;
+    
+
+}
+.news:first-child {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+}
+.news {
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

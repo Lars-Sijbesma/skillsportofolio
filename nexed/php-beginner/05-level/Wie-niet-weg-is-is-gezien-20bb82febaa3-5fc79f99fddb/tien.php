@@ -1,0 +1,8 @@
+<?php
+
+for ($i = 1; $i <= 10; $i++) { 
+    # code...
+    echo $i . PHP_EOL;
+}
+
+?>

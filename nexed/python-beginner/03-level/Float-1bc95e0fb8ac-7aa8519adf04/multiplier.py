@@ -1,0 +1,5 @@
+﻿print("Eerste getal?")
+a = float(input())
+print("Tweede getal?")
+b = float(input())
+print(a * b)

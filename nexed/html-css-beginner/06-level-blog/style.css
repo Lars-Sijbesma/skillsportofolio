@@ -1,0 +1,50 @@
+body {
+    background-color:pink
+}
+article {
+    color: blue;
+    background-color: springgreen;
+}
+h1 {
+    color: paleturquoise;
+}
+header {
+    border-bottom: solid;
+}
+nav {
+    display: inline;
+}
+
+body {
+    background-color: seashell;
+}
+
+h1 {
+    color: red;
+}
+
+ol, ul { 
+    color: steelblue;
+    font-size: xx-large;
+}
+
+img {
+    width: 20%; height: auto;
+}
+
+.aboutme {
+    background-color: cornflowerblue;
+    
+}
+.Games {
+    font-style: unset;
+}
+
+span {
+    color: green;
+}
+
+footer {
+    text-align: center;
+    background-color:aqua;
+}
